@@ -1,2 +1,3 @@
 # cmf-econometrics
-CMF MSU Applied Econometrics course / Autumn 2014 
+ЦМФ МГУ, курс прикладной эконометрики, осень 2014
+
