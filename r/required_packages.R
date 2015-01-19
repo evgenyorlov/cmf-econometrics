@@ -22,9 +22,9 @@ install.packages("evd")
 # 8.
 
 # 9.
-
+install.packages("np")
 # 10.
-
+install.packages("np")
 # 11.
 
 # 12.
