@@ -20,7 +20,8 @@ install.packages("copula")  # ubuntu - sudo apt-get install libgsl0-dev
 # 7.
 install.packages("evd")
 # 8.
-
+install.packages("evd")
+install.packages("copula")
 # 9.
 install.packages("np")
 # 10.
