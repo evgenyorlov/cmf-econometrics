@@ -28,5 +28,4 @@ install.packages("np")
 install.packages("np")
 # 11.
 
-# 12.
-
+# 12. 
